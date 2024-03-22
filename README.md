@@ -20,12 +20,3 @@
             </header>
         </body>
         </html>
-cabeçalho {
-    cor de fundo: #424E61;
-    cor branca;
-}
-*{
-    margem: 0;
-    preenchimento: 0;
-}
-
