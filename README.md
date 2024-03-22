@@ -47,3 +47,30 @@ cabeçalho {
     margem: 0 16px;
     tamanho da fonte: 24px;
 }
+@@ -2,3 +2,26 @@ cabeçalho {
+    cor de fundo: #424E61;
+    cor branca;
+}
+*{
+    margem: 0;
+    preenchimento: 0;
+}
+
+.cabecalho {
+    cor de fundo: #424E61;
+    cor branca;
+    exibição: flexível;
+    justificar conteúdo: espaço ao redor;
+    alinhar itens: centro;
+    preenchimento: 24px 0;
+}
+
+.cabecalho-imagem{
+    largura: 20%;
+}
+
+.cabecalho-lista-item{
+    display: bloco embutido;
+    margem: 0 16px;
+    tamanho da fonte: 24px;
+}
