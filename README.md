@@ -8,7 +8,7 @@
 </head>
 <corpo>
     </header>
-          </h1>png-transparent-cat-kitten-cuteness-cat-brown-tabby-kitten-household-animals-cat-like-mammal.png</h1>
+          </h1>Não gosto desse curso</h1>
           </ul>
           <corpo>
             <cabeçalho>
